@@ -1,10 +1,10 @@
 <!---->
 <div align="center">
-<img src="./ReadMeFiles/app.jpg" align="center">
+<img src="https://raw.githubusercontent.com/anjani-1305/images/main/ThumbnailLinkImg.png" align="center">
 </div>
 
 # MyEats - Responsive Landing Page
 
-<p>Esse projeto foi feito por: <strong>Anjani Kumar</strong>Dated:-03/2023</p>
+<p>This project was made by: <strong>Anjani Kumar</strong></p>
 
-## Demo:
+## Dated:-03/2023
